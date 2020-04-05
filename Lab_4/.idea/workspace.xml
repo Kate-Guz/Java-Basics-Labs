@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69c3c66e-a02e-4780-9870-bafa4e4ac9c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="42" />
+    <option name="y" value="-16" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectId" id="1a81YuBJGuXoZlMExBxNxDAeWWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575194427273" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kate" />
+  </component>
+  <component name="RunManager" selected="Application.SupSubRef">
+    <configuration name="SupSubRef" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SupSubRef" />
+      <module name="4Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1_Student" />
+      <module name="4Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2_PosAndNeg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2_PosAndNeg" />
+      <module name="4Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_PeopleInCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3_PeopleInCircle" />
+      <module name="4Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4_MaxXMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task4_MaxXMin" />
+      <module name="4Laba" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SupSubRef" />
+      <item itemvalue="Application.Task1_Student" />
+      <item itemvalue="Application.Task4_MaxXMin" />
+      <item itemvalue="Application.Task2_PosAndNeg" />
+      <item itemvalue="Application.Task3_PeopleInCircle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1_Student" />
+        <item itemvalue="Application.Task3_PeopleInCircle" />
+        <item itemvalue="Application.Task2_PosAndNeg" />
+        <item itemvalue="Application.Task4_MaxXMin" />
+        <item itemvalue="Application.SupSubRef" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69c3c66e-a02e-4780-9870-bafa4e4ac9c5" name="Default Changelist" comment="" />
+      <created>1574789123953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574789123953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586102489886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586102489886" />
+  </component>
+</project>
